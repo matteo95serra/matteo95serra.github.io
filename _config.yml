@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Hi, I'm Matteo Serra!
-logo: /Users/matteoserra/Desktop/foto_github.jpeg
+avatar: /Users/matteoserra/Desktop/foto_github.jpeg
+round-avatar: true
+author: Matteo Serra
 description: PhD student at Institut Jules Bordet (Université Libre de Bruxelles)
 social-network-links:
   email: "matteo95serra@gmail.com"

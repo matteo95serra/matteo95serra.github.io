@@ -9,3 +9,9 @@ social-network-links:
   email: "matteo.serra@bordet.be"
   twitter: "https://twitter.com/Matteo_Serra"
   linkedin: "https://www.linkedin.com/in/matteo-serra-8b338113a/"
+  
+share-links-active:
+  email: true
+  email: true
+  twitter: true
+  linkedin: true

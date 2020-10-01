@@ -1,10 +1,13 @@
 # Hi, I'm Matteo!
 
-_I'm a PhD student in Bioinformatics at "Breast Cancer Translational Research Laboratory J.C. Heuson" at Institut Jules Bordet (Université libre de Bruxelles) in Brussels, where I'm currently working on bulk, single cell and spatial transcriptomics data in luminal breast cancer. My aim is to study heterogeneity of tumor microenvironment applying state of the art and in house built methods. I have a strong interest for machine learning and deep learning methods applied to various biological classification problems._
+_I'm a PhD student in Bioinformatics at "Breast Cancer Translational Research Laboratory J.C. Heuson" at Institut Jules Bordet (Université libre de Bruxelles) in Brussels, where I'm currently working on bulk, single cell and spatial transcriptomics data in luminal breast cancer. My aim is to study heterogeneity of tumor microenvironment applying state of the art and in house built methods. I have a strong interest and experience in machine learning and deep learning methods applied to various biological problems._
+
 
 ## Working experiences
 
+
 ## Education
+
 
 ## Volunteering
 

@@ -2,12 +2,3 @@ theme: jekyll-theme-minimal
 title: Matteo Serra
 logo: "/Users/matteoserra/Desktop/foto_github.jpeg"
 description: PhD student at Institut Jules Bordet (Université Libre de Bruxelles)
-author:
-  name             : Matteo Serra
-  avatar           : "/Users/matteoserra/Desktop/foto_github.jpeg"
-  location         : Brussels
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:matteo95serra@gmail.com"

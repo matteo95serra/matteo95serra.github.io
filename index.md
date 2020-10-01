@@ -1,6 +1,6 @@
 ## About me
 
-_I'm a PhD student in Bioinformatics at "Breast Cancer Translational Research Laboratory J.C. Heuson" at Institut Jules Bordet (Université libre de Bruxelles) in Brussels, where I'm currently working on bulk, single cell and spatial transcriptomics data in luminal breast cancer. In particular, I'm applying state of the art methods to analyse tumor heterogeneity in the tumor microenvironment of such kind of tumor and I have a strong interest and experience in machine learning and deep learning methods applied to various biological problems._
+_I'm a PhD student in Bioinformatics at "Breast Cancer Translational Research Laboratory J.C. Heuson" at Institut Jules Bordet (Université libre de Bruxelles) in Brussels, where I'm currently working on bulk, single cell and spatial transcriptomics data in luminal breast cancer. My aim is to study heterogeneity of tumor microenvironment applying state of the art and in house built methods. Strong interest for machine and deep learning methods applied to various biological problems._
 
 You can use the [editor on GitHub](https://github.com/matteo95serra/matteo95serra.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

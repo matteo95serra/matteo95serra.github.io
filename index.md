@@ -1,53 +1,61 @@
 # Hi, I'm Matteo!
 
-_I'm a PhD student in Bioinformatics at "Breast Cancer Translational Research Laboratory J.C. Heuson" at Institut Jules Bordet (Université libre de Bruxelles) in Brussels, where I'm currently working on bulk, single cell and spatial transcriptomics data in luminal breast cancer. My aim is to study heterogeneity of tumor microenvironment applying state of the art and in house built methods. I have a strong interest and experience in machine learning and deep learning methods applied to various biological problems. 
-Beyond science, I like travelling and volunteering in areas such as childcare and education._
+_I'm a PhD student in Bioinformatics at "Breast Cancer Translational Research Laboratory J.C. Heuson" at Institut Jules Bordet (Université libre de Bruxelles) in Brussels, where I'm currently working on bulk, single cell and spatial transcriptomics data in luminal breast cancer. My aim is to study heterogeneity of tumor microenvironment applying state of the art and in house built methods. I have experience and a strong interest in machine learning, deep learning methods and molecular anthropology.
+Beyond science, I like music, photography, travelling and volunteering in areas such as childcare and education._
 
 
-## Working experiences
+## Research experiences
+
+### Institute Jules Bordet (Brussels, BE)
+PhD student in Bioinformatics (BCTL, Sotiriou's Lab)
+_Studying tumor microenvironment heterogeneity in luminal breast cancer_
+Sep. 2020 - Present
+
+### Bioinformatics Institute of Singapore - A * STAR (Singapore, SG)
+Trainee - Research assistan (Huber's Lab)
+_Investigating functional and structural features of Zika and Chikungunya viruses_
+Nov. 2019 - Feb. 2020
+
+### BioMediTech - Tampere University (Tampere, FI)
+Trainee - Thesis worker (Nykter's Lab)
+_Development of a pipeline (concerning ML) for the identification of the cell type starting from scRNA-Seq data_
+Feb. 2019 - Jun. 2019
+
+### MBC - University of Torino (Turin, IT)
+Trainee (Provero's Lab)
+_Investigating the role of lncRNAs in the development of acute promyelocytic leukemia_
+Jan. 2017 - Jul. 2017
 
 
 ## Education
 
+### PhD student in Bioinformatics
+"Doctoral Program in Biomedical and Pharmaceutical Sciences", Université libre de Bruxelles (Brussels, BE)
+_Putative thesis title: "Spatial transcriptomics in luminal breast cancer"_
+Sep. 2020 - Present
 
-## Volunteering
+### Master's Degree in Bioinformatics
+"International Master in Bioinformatics", University of Bologna (Bologna, IT)
+_Dissertation thesis: "Cell type classification from single cell RNA-Seq data"_
+Oct. 2017 - Mar. 2020
 
-
-
-
-
-You can use the [editor on GitHub](https://github.com/matteo95serra/matteo95serra.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### Bachelor's Degree in Biotechnology
+"Corso di Laurea in Biotecnologie", University of Torino (Torino, TO)
+_Dissertation thesis: "Adaptive introgression from Archaic Humans"_
+Oct. 2014 - Oct. 2017
 
 
-[Link](url) and ![Image](src)
-```
+## Others
+I've been backpacking in more then twenty countries around the world, having the opportunity to meet and to get in deep contact with different cultures around Africa, Asia, Europe and America. I had the opportunity do volunteer many times in different kind of countries, such as in India ("Nava Jeevana Rehabilitation Center", Bellary), Tanzania ("Mbweni public school", Mbweni - Dar es Salaam), Brazil ("Casa do Menor Brasil", Miguel Couto - Rio de Janeiro) in the areas of education and childcare. I've been the social media manager for a couple of years for the NGO "Casa do Menor Italia" (Cuneo, IT), managing the communication of the association through the principal social networks.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Honours and awards
+SIPGA: "Singapore Pre-Graduate Award", Singapore (SG) - November 2019
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matteo95serra/matteo95serra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contacts
+Matteo Serra
+B.C.T.L. - Jules Bordet Institue, 121 Boulevard de Waterloo, 1000 Brussels (BE)
+Phone: +39 3397920645
+[Twitter](https://twitter.com/Matteo_Serra)
+[Linkedin](https://www.linkedin.com/in/matteo-serra-8b338113a/)

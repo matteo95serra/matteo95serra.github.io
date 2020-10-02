@@ -29,9 +29,9 @@ Jan. 2017 - Jul. 2017
 
 ## Education
 
-### PhD student in Bioinformatics
-"Doctoral Program in Biomedical and Pharmaceutical Sciences", Université libre de Bruxelles (Brussels, BE)  
-_Putative thesis title: "Spatial transcriptomics in luminal breast cancer"_  
+### Doctoral program in Biomedical and Pharmaceutical Sciences (Bioinformatics)
+"Formation doctorale en Sciences biomédicales et pharmaceutiques (Médecine)", Université libre de Bruxelles (Brussels, BE)  
+_Putative dissertation thesis: "Spatial transcriptomics in luminal breast cancer"_  
 Sep. 2020 - Present
 
 ### Master's Degree in Bioinformatics

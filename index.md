@@ -7,41 +7,41 @@ Beyond science, I like music, photography, travelling and volunteering in areas 
 ## Research experiences
 
 ### Institute Jules Bordet (Brussels, BE)
-PhD student in Bioinformatics (BCTL, Sotiriou's Lab) |
-_Studying tumor microenvironment heterogeneity in luminal breast cancer_ |
+PhD student in Bioinformatics (BCTL, Sotiriou's Lab)  
+_Studying tumor microenvironment heterogeneity in luminal breast cancer_  
 Sep. 2020 - Present
 
 ### Bioinformatics Institute of Singapore - A * STAR (Singapore, SG)
-Trainee - Research assistan (Huber's Lab) |
-_Investigating functional and structural features of Zika and Chikungunya viruses_ |
+Trainee - Research assistan (Huber's Lab)  
+_Investigating functional and structural features of Zika and Chikungunya viruses_  
 Nov. 2019 - Feb. 2020
 
 ### BioMediTech - Tampere University (Tampere, FI)
-Trainee - Thesis worker (Nykter's Lab) |
-_Development of a pipeline (concerning ML) for the identification of the cell type starting from scRNA-Seq data_ |
+Trainee - Thesis worker (Nykter's Lab)  
+_Development of a pipeline (concerning ML) for the identification of the cell type starting from scRNA-Seq data_  
 Feb. 2019 - Jun. 2019
 
 ### MBC - University of Torino (Turin, IT)
-Trainee (Provero's Lab) |
-_Investigating the role of lncRNAs in the development of acute promyelocytic leukemia_ |
+Trainee (Provero's Lab)  
+_Investigating the role of lncRNAs in the development of acute promyelocytic leukemia_  
 Jan. 2017 - Jul. 2017
 
 
 ## Education
 
 ### PhD student in Bioinformatics
-"Doctoral Program in Biomedical and Pharmaceutical Sciences", Université libre de Bruxelles (Brussels, BE) |
-_Putative thesis title: "Spatial transcriptomics in luminal breast cancer"_ |
+"Doctoral Program in Biomedical and Pharmaceutical Sciences", Université libre de Bruxelles (Brussels, BE)  
+_Putative thesis title: "Spatial transcriptomics in luminal breast cancer"_  
 Sep. 2020 - Present
 
 ### Master's Degree in Bioinformatics
-"International Master in Bioinformatics", University of Bologna (Bologna, IT) |
-_Dissertation thesis: "Cell type classification from single cell RNA-Seq data"_ |
+"International Master in Bioinformatics", University of Bologna (Bologna, IT)  
+_Dissertation thesis: "Cell type classification from single cell RNA-Seq data"_  
 Oct. 2017 - Mar. 2020
 
 ### Bachelor's Degree in Biotechnology
-"Corso di Laurea in Biotecnologie", University of Torino (Torino, TO) |
-_Dissertation thesis: "Adaptive introgression from Archaic Humans"_ |
+"Corso di Laurea in Biotecnologie", University of Torino (Torino, TO)  
+_Dissertation thesis: "Adaptive introgression from Archaic Humans"_  
 Oct. 2014 - Oct. 2017
 
 
@@ -54,8 +54,8 @@ SIPGA: "Singapore Pre-Graduate Award", Singapore (SG) - November 2019
 
 
 ## Contacts
-Matteo Serra |
-B.C.T.L. - Jules Bordet Institue, 121 Boulevard de Waterloo, 1000 Brussels (BE)|
-Phone: +39 3397920645 |
-[Twitter](https://twitter.com/Matteo_Serra) |
+Matteo Serra  
+B.C.T.L. - Jules Bordet Institue, 121 Boulevard de Waterloo, 1000 Brussels (BE)  
+Phone: +39 3397920645  
+[Twitter](https://twitter.com/Matteo_Serra)  
 [Linkedin](https://www.linkedin.com/in/matteo-serra-8b338113a/)
